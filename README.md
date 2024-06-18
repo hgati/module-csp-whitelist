@@ -1,4 +1,4 @@
-# Magento 2 CSP Whitelist
+# Magento 2 CSP Whitelist Control
 
 ## Installation
 - `composer require hgati/module-csp-whitelist`
