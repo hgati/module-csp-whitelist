@@ -1,0 +1,14 @@
+{
+  "name": "hgati/module-csp-whitelist",
+  "version": "1.0.0",
+  "description": "CSP Control on Magento2 Admin Panel",
+  "type": "magento2-module",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Hgati\\CspWhitelist\\": ""
+    }
+  }
+}
