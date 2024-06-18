@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "CSP Control on Magento2 Admin Panel",
   "type": "magento2-module",
+  "license": [
+    "MIT"
+  ],
   "autoload": {
     "files": [
       "registration.php"
